@@ -8,4 +8,8 @@
     <RootNamespace>Ucu.Poo.GitChallenge</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="substract" />
+  </ItemGroup>
+
 </Project>
